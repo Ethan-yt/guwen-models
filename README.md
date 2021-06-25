@@ -9,7 +9,7 @@
 <a href="https://github.com/Ethan-yt/guwen-models/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/ethan-yt/guwen-models"></a>
 </p>
 
-古文自然语言处理模型合集，收录互联网上的古文相关模型及资源。
+古文自然语言处理模型合集，收录互联网上的古文相关模型及资源。[在线演示](https://cclue.top/guwen-models.html)
 
 更多内容请参考：
 
